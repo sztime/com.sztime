@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T07:07:10.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="17.2.4" etag="ynLk2kjk_cLRQIWDKp-F" type="github"><diagram id="wQo5QHYVpOsWIZk5C3-U">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-07T07:42:15.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="2LMsVvOyUj5RNRxcwm6r" version="17.2.4" type="github">
+  <diagram id="wQo5QHYVpOsWIZk5C3-U" name="Page-1">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3m6dUD3F0d_kofW_ouFe-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="110" width="570" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="3m6dUD3F0d_kofW_ouFe-2" value="sf-portal-admin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="130" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3m6dUD3F0d_kofW_ouFe-3" value="sf-portal-prm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="130" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3m6dUD3F0d_kofW_ouFe-4" value="sf-portal-home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="270" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3m6dUD3F0d_kofW_ouFe-5" value="sf-portal-register" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="200" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3m6dUD3F0d_kofW_ouFe-6" value="sf-portal-user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="200" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3m6dUD3F0d_kofW_ouFe-7" value="sf-portal-weibo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="270" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3m6dUD3F0d_kofW_ouFe-10" value="sf-portal-app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
